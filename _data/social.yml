@@ -1,9 +1,9 @@
-- title: Email
+- title: 邮箱
   url: mailto://vszhub@gmail.com
   icon: fas fa-envelope
-- title: Twitter
+- title: 推特(原作者)
   url: https://twitter.com/vszhub
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/LandMineCube
   icon: fab fa-github
