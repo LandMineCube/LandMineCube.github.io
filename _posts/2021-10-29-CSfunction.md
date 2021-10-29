@@ -2,7 +2,7 @@
 layout: post
 title: C#-函数
 date: 2021-10-29 12:00 +0800
-tags: [learning, c#]
+tags: [learning, csharp]
 author: LMCube
 toc:  true
 ---
@@ -87,8 +87,6 @@ eg.
             ReadKey();
         }
     }
-
-
 ```
 
 在class里使用**static**前缀可声明全局变量，所有隶属于该程序的函数均可调用该变量。
@@ -138,7 +136,7 @@ WriteLine($"Result : {text}")
 
 ```c#
 int i;
-string text = "";						//给text赋值后text才会被分配内存空间
+string text = "";			//给text赋值后text才会被分配内存空间
 for(i = 0 ; i <10 ; i++)
 {
     text = "Line" + Convert.Tostring(i);
