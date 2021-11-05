@@ -1,0 +1,63 @@
+---
+layout: post
+title: Arduino-入门记录
+date: 2021-11-5 12:20 +0800
+tags: [learning, Arduino]
+author: LMCube
+math: true
+toc: true
+---
+
+## 基本LED控制
+
+要使用arduino，首先要完成引脚初始化。
+
+初始化引脚后方可进行loop中的代码
+
+```c
+void setup()
+{
+    //初始化引脚输出模式代码
+}
+```
+
+基本初始化代码
+
+```c
+pinMode(/*number*/,/*mode*/);
+```
+
+number中可输入0~13，其中13号引脚默认连接一颗板载LED。
+
+示例
+
+```c
+int LEDpin = 13;
+pinMode(LEDpin,OUTPUT);
+```
+
+初始化第13号引脚，使其具备输出能力。也可直接输入13代替LEDpin。
+
+**循环代码**
+
+```c
+void loop{
+    /*code*/
+}
+```
+
+当代码烧录入Arduino时，代码会在其中循环执行。
+
+**控制电平输出**
+
+```c
+digitalWrite(LED, HIGH);
+```
+
+控制电平输出，high表示高电平，low表示低电平。
+
+```c
+delay(XXXX);
+```
+
+delay表示延迟开/关，XXXX表示秒数，1000为1秒。
