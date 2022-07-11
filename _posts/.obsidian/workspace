@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "218608f219feb921",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc56a3780fbfb280",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-11-5-Arudino_基础.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2531d9213d547843",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f51c7f600078d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d185bbfbf4b0359c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eeabd27f84653f8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "077bf5b32c4a6da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e90a8cdf33e70ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3747e8ab00ff5d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-11-5-Arudino_基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fc56a3780fbfb280",
+  "lastOpenFiles": [
+    "2021-11-5-Arudino_基础.md",
+    "2021-11-21-CL-List-of-Book.md",
+    "2022-3-14-Arduino函数.md",
+    "2022-3-14-Cpp_bit.md",
+    "2021-10-25-杂项-博客开通.md",
+    "2021-10-25-CL-我的笔记1.md",
+    "2021-10-26-CL-运算符.md",
+    "2021-10-29-CS_function.md",
+    "2021-11-8-CL-loop.md",
+    "2022-3.md"
+  ]
+}

@@ -2,7 +2,7 @@
 layout: post
 title: C#-函数
 date: 2021-10-29 12:00 +0800
-tags: [learning, csharp]
+tags: [csharp]
 author: LMCube
 toc:  true
 ---
