@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [HALCON]灰度阈值 
+title: HALCON-灰度阈值 
 date: 2022-07-11 12:30 +0800
 tags: [HALCON]
 author: LMCube
