@@ -41,5 +41,5 @@ threshold (GrayImage , Region , 70 , 100)
 connection ( Region , ConnectedRegions)
 ~~~
 对互相不连接的阈值进行分割，并配以不同的颜色区分分区
-![阈值分割后图像]([Halcon-Gray.png (736×417) (gitee.com)](https://gitee.com/LSCLU/LMCube.github.io/raw/master/image/Halcon-Gray.png))
+ ![阈值分割](https://gitee.com/LSCLU/LMCube.github.io/raw/master/image/Halcon-Gray.png)
 其中Region为先前已声明的阈值区间变量
