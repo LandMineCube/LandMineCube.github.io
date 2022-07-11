@@ -8,6 +8,9 @@ math: true
 toc: true
 ---
 # 灰度图像及阈值
+第一章节，使用HALCON处理灰度图像并使用特定算子对数据进行分割
+{: .message }
+
 ### 灰度值
 灰度图像中灰度共有256个级别，从0到255
 ![灰度图例](https://img1.baidu.com/it/u=765716361,3100067418&fm=253&fmt=auto&app=138&f=JPEG?w=720&h=429)
@@ -34,3 +37,7 @@ threshold (GrayImage , Region , 70 , 100)
 读取灰度图像，声明变量区间Region，读取灰度值位于70到100之间的像素并高亮显示
 
 ### 阈值分割
+~~~
+connection ( Region , ConnectedRegions)
+~~~
+对互相不连接的阈值进行分割，并配以不同的颜色区分分区
