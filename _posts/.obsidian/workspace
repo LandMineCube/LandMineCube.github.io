@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-7-11-HALCON-Gray.md",
+            "file": "2022-7-12-HALCON-2-morphology.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-7-11-HALCON-Gray.md",
+                "file": "2022-7-12-HALCON-2-morphology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "fc56a3780fbfb280",
   "lastOpenFiles": [
-    "2022-7-11-HALCON-Gray.md",
+    "2022-7-12-HALCON-2-morphology.md",
+    "2022-7-11-HALCON-1-Gray.md",
     "2022-3-14-Cpp_bit.md",
-    "[Halcon-Gray.png.md",
+    "image/HALCON_gray.png",
+    "HALCON_gray.png.md",
     "2020-09-29-welcome-to-not-pure-poole.md",
+    "[Halcon-Gray.png.md",
     "2022-3-14-Arduino函数.md",
     "2021-11-5-Arudino_基础.md",
-    "2021-10-25-杂项-博客开通.md",
-    "2021-10-25-CL-我的笔记1.md",
-    "2021-11-21-CL-List-of-Book.md",
-    "2021-10-26-CL-运算符.md"
+    "2021-10-25-杂项-博客开通.md"
   ]
 }
